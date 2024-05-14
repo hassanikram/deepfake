@@ -6,7 +6,7 @@ first I created an environment using
 
 $ conda env create -f environment.yml
 
-$ conda activate icpr2020
+$ conda activate deepfake
 
 than ran commands in make_data.sh and after that I edited the code in train_binclass.py and split.py according to  my dataset
 3 models are trained 
