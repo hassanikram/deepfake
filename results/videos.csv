@@ -1,0 +1,7 @@
+traintag,net,traindb,testdb,testsplit,numreal,numfake,loss,acc,accbal,rocauc
+net-EfficientNetAutoAttB4_traindb-celebdf_face-scale_size-224_seed-41_bestval,EfficientNetAutoAttB4,celebdf,celebdf,test,178,340,0.023423610341239746,0.9942084942084942,0.992911434236616,0.9995373430270984
+net-EfficientNetAutoAttB4_traindb-celebdf_face-scale_size-224_seed-41_bestval,EfficientNetAutoAttB4,celebdf,celebdf,val,112,898,0.012495858102131637,0.994059405940594,0.9849367642379891,0.9997912026726058
+net-EfficientNetB4_traindb-celebdf_face-scale_size-224_seed-41_bestval,EfficientNetB4,celebdf,celebdf,test,178,340,0.017955013090129052,0.9942084942084942,0.992911434236616,0.9999008592200925
+net-EfficientNetB4_traindb-celebdf_face-scale_size-224_seed-41_bestval,EfficientNetB4,celebdf,celebdf,val,112,898,0.005929690185241432,0.997029702970297,0.9905146356983774,0.9999801145402482
+net-Xception_traindb-celebdf_face-scale_size-224_seed-41_bestval,Xception,celebdf,celebdf,test,178,340,0.015833112596569363,0.9922779922779923,0.9887640449438202,1.0
+net-Xception_traindb-celebdf_face-scale_size-224_seed-41_bestval,Xception,celebdf,celebdf,val,112,898,0.007603111656650377,0.997029702970297,0.9905146356983774,0.9999602290804963
